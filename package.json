@@ -1,0 +1,44 @@
+{
+  "_from": "moonbeam-truffle-plugin@>=1.0.1",
+  "_id": "moonbeam-truffle-plugin@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-fpKugegQ1nbxNw3g5+aSYyVdOvfDlvK6hiKAukzYvx/wVMt7atfr41hOqOVhwnMRRQShjhJxP6DcLHPbLiX7fw==",
+  "_location": "/moonbeam-truffle-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "moonbeam-truffle-plugin@>=1.0.1",
+    "name": "moonbeam-truffle-plugin",
+    "escapedName": "moonbeam-truffle-plugin",
+    "rawSpec": ">=1.0.1",
+    "saveSpec": null,
+    "fetchSpec": ">=1.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/moonbeam-truffle-plugin/-/moonbeam-truffle-plugin-1.0.1.tgz",
+  "_shasum": "5cd0e897df1c9a9bcc7a8ec32becbbdd2b355a48",
+  "_spec": "moonbeam-truffle-plugin@>=1.0.1",
+  "_where": "/home/alberto/data/moonbeam_box",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/albertov19/moonbeam_truffle_plugin/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Moonbeam Truffle Plugin",
+  "homepage": "https://github.com/albertov19/moonbeam_truffle_plugin#readme",
+  "license": "ISC",
+  "main": "moonbeam.js",
+  "name": "moonbeam-truffle-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertov19/moonbeam_truffle_plugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
