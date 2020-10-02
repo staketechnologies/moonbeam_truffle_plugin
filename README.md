@@ -1,6 +1,8 @@
 # Moonbeam Truffle Plugin
 
-The Plugin is used to get you started with a local standalone Moonbeam node quickly, the following commands are available:
+This is meant to be used with the Moonbeam Truffle box: https://github.com/PureStake/moonbeam-truffle-box.git
+
+The plugin is used to get you started with a local standalone Moonbeam node quickly, the following commands are available:
 
 ## Install
 In this context, installing means downloading the Docker image of the Moonbeam standalone node (requires Docker to be installed).
