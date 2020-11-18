@@ -1,6 +1,6 @@
-# Moonbeam Truffle Plugin
+# Plasm Truffle Plugin
 
-This is meant to be used with the Moonbeam Truffle box: https://github.com/PureStake/moonbeam-truffle-box.git
+This is meant to be used with the Plasm Truffle box: https://github.com/PureStake/moonbeam-truffle-box.git
 
 The plugin is used to get you started with a local standalone Moonbeam node quickly, the following commands are available:
 
@@ -47,4 +47,8 @@ node_modules/.bin/truffle run moonbeam status
 ```
 
 # Contact Us
-We welcome any feedback, so feel free to reach out through our official [Discord Channel](https://discord.gg/PfpUATX).
+We welcome any feedback, so feel free to reach out through our official [Discord Channel](https://discord.gg/9Ajz2aCmYg).
+
+# Credits
+
+This repo started from a fork of [moonbeam_truffle_plugin](https://github.com/albertov19/moonbeam_truffle_plugin).
