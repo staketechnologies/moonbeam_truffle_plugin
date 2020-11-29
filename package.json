@@ -5,7 +5,7 @@
   "homepage": "https://github.com/staketechnologies/plasm_truffle_plugin#readme",
   "license": "ISC",
   "main": "plasm.js",
-  "name": "plasm-truffle-plugin",
+  "name": "@plasm/plasm-truffle-plugin",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/staketechnologies/plasm_truffle_plugin.git"
