@@ -1,4 +1,4 @@
-const install = require("./commands/install_moonbeam");
+const install = require("./commands/install_client");
 const start = require("./commands/start_node");
 const stop = require("./commands/stop_node");
 const pause = require("./commands/pause_node");
